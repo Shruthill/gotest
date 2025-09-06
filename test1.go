@@ -9,4 +9,5 @@ version := 1.0
 fmt.Println("Hello world!")
 fmt.Println("new line added")
 fmt.Println("version", version)
+  fmt.Println("testing")
 }
